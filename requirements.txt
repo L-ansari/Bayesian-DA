@@ -1,0 +1,8 @@
+scipy
+matplotlib
+ipywidgets
+numpy
+pandas
+pyz
+jupyter
+preliz
